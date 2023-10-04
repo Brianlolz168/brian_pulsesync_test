@@ -1,0 +1,7 @@
+1,Apple,Fruit
+2,Banana,Fruit
+3,Carrot,Vegetables
+4,Orange,Fruit
+5,Tomato,Vegetables
+6,Broccoli,Vegetables
+7,Spinach,Vegetables
